@@ -19,7 +19,7 @@
 - [17 模块](https://github.com/extenics/learningpython/blob/master/17%20%E6%A8%A1%E5%9D%97.md)
 - 18 常用内置模块
     - [Functional Programming Modules](https://github.com/extenics/learningpython/blob/master/18%20%E5%B8%B8%E7%94%A8%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97Functional%20Programming%20Modules.md)
-    - [Numeric and Mathematical Modules]https://github.com/extenics/learningpython/blob/master/18%20%E5%B8%B8%E7%94%A8%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97_Numeric%20and%20Mathematical%20Modules.md)
+    - [Numeric and Mathematical Modules](https://github.com/extenics/learningpython/blob/master/18%20%E5%B8%B8%E7%94%A8%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97_Numeric%20and%20Mathematical%20Modules.md)
 - 19 第三方模块
     - [numpy](https://github.com/extenics/learningpython/blob/master/19%20%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A8%A1%E5%9D%97_Numpy.md)
     - [scipy](https://github.com/extenics/learningpython/blob/master/19%20%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A8%A1%E5%9D%97_Scipy.md)
