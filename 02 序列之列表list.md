@@ -11,7 +11,7 @@
 - 最值：`max(Iter)`、`min(Iter)`
 
 
-###创建空列表
+### 创建空列表
 `L = []`
 ### 基本操作
 - 赋值`L[start:stop:step] = a`
